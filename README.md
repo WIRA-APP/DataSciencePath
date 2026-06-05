@@ -6,7 +6,7 @@ Fokus utama repositori ini adalah mengubah data geografis dan aktivitas bisnis m
 
 ---
 
-## 🎯 Tujuan Proyek
+## Tujuan Proyek
 
 WIRA dikembangkan untuk membantu proses analisis dan pemilihan lokasi bisnis melalui pemanfaatan data spasial, karakteristik jaringan jalan, aksesibilitas transportasi, fasilitas sekitar, serta kondisi persaingan usaha.
 
@@ -14,7 +14,7 @@ Melalui pendekatan Spatial Data Science, data geografis yang tersebar dari berba
 
 ---
 
-## 🔄 Workflow Data Science
+## Workflow Data Science
 
 Repositori ini mencakup seluruh tahapan Data Science yang dilakukan dalam proyek WIRA:
 
@@ -33,7 +33,7 @@ Repositori ini mencakup seluruh tahapan Data Science yang dilakukan dalam proyek
 
 ---
 
-## 📂 Repository Contents
+## Repository Contents
 
 ### Dataset
 Berisi dataset hasil integrasi dan pengolahan pada berbagai tahapan pipeline, termasuk dataset hasil preprocessing dan dataset siap pemodelan.
@@ -49,7 +49,7 @@ Dokumentasi proyek, laporan komprehensif, serta catatan analisis yang mendukung 
 
 ---
 
-## 🗃️ Data Sources
+## Data Sources
 
 Data yang digunakan dalam proyek ini berasal dari:
 
@@ -58,7 +58,7 @@ Data yang digunakan dalam proyek ini berasal dari:
 
 ---
 
-## ⚙️ Output
+## Output
 
 Output utama yang dihasilkan dari workflow ini meliputi:
 
@@ -72,7 +72,7 @@ Output utama yang dihasilkan dari workflow ini meliputi:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python
 - Pandas
