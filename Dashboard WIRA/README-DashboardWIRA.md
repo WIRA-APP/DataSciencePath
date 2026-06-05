@@ -26,9 +26,9 @@ http://localhost:8501
 
 Dashboard juga dapat diakses melalui deployment Streamlit Cloud:
 
-🔗 https://wira-dashboard.streamlit.app/
+https://wira-dashboard.streamlit.app/
 
-### 📌 Fitur Dashboard
+### Fitur Dashboard
 
 - Business Opportunity Analysis
 - Location Intelligence Visualization
